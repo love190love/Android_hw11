@@ -1,0 +1,2 @@
+include ':app', ':hw11'
+rootProject.name='Android_hw11'
